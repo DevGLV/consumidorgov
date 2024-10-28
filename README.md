@@ -2,6 +2,12 @@
 
 Este projeto em Python foi desenvolvido para realizar a análise de dados de reclamações de clientes, com visualizações interativas e filtragem personalizada. Utilizando **Streamlit** para a interface, **Plotly** para gráficos e **Selenium** para coleta de dados, o projeto permite explorar e entender métricas de satisfação e problemas recorrentes nos atendimentos.
 
+## Acesse o Aplicativo
+
+Você pode acessar o aplicativo em funcionamento diretamente no link abaixo:
+
+🔗 **[Aplicação ao vivo - Análise de Reclamações de Clientes](https://consumidorgov-kvsmrfkjsp4zaqs9g3fgve.streamlit.app/)**
+
 ## Funcionalidades
 
 1. **Análise de Frequência de Reclamações**: 
@@ -17,18 +23,3 @@ Este projeto em Python foi desenvolvido para realizar a análise de dados de rec
 
 - **kk.py**: Código principal contendo a lógica para filtragem de dados e geração de gráficos.
 - **requirements.txt**: Lista de dependências necessárias para rodar o projeto.
-
-## Pré-Requisitos
-
-- **Python 3.8+**
-- **Docker** (opcional, para execução em contêiner)
-- **Dependências**: Especificadas no arquivo `requirements.txt`.
-
-## Instalação e Execução
-
-### Rodando Localmente
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu_usuario/seu_repositorio.git
-   cd seu_repositorio
